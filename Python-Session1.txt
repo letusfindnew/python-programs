@@ -1,0 +1,29 @@
+Python Session:
+***************
+
+Check python installation:
+**************************
+Step#1 Open CMD 
+
+Step#2 run below command
+	python --version
+
+If not found , install python.
+
+Step#3: Got to browser and search for python.
+Step#4: Download latest version.
+Step#5: DOuble click on downloaded python file.
+Step#6: Folow installation screen instructions.
+Step#7: Set python installation location in the system environment variables (path).
+Step#8: Now check python installation and version by following step#1 and Step#2
+
+Step#9: Open a notepad or any other tools / editors which suport python language.
+Step#10: Write a simple hello world programm as below.
+		print("Hello World")
+		
+Step#11: Save the file as HelloWorld.py in C:\Users\Mohan\Python-Programs
+Step#12: Open commnad/ CMD prompt go to your python file location which is C:\Users\Mohan\Python-Programs
+Step#13: Execute your python file by running below command
+		 py HelloWorld.py
+Step#14: Check the output
+

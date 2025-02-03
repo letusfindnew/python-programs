@@ -1,0 +1,5 @@
+**** print() function*****
+
+ptint() is a function whcih is inbuilt in the python language 
+This will be used to print any text /string /variables on the console.
+

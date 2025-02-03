@@ -1,0 +1,45 @@
+Python Programming language:
+****************************
+
+Comments:
+********
+We use # hash symbol for adding our comemtns in the programm 
+and the comments will be ingnored by the ompiler.
+
+Variabel declaration:
+*********************
+We use english letters or combination of letters, number and symboles
+
+Data Types:
+***********
+
+Numbers:
+ i =10
+ j = 30
+Decimals
+Text, 
+	String: we use "" for representing a string 
+	 name
+	 city
+	 
+	 
+	Big size text documents
+mp3,
+mp4
+
+
+print(   a [ 13  ]  ) 
+
+list = []
+tuple= ()
+set = {}
+
+
+
+Data Type:
+
+List : [] , mutable, index based, ordered, allow duplicate values
+Tuple: (), Immutable, index based, ordered, allow duplicate values
+Set: {}, mutable, unordered, no duplicates, index based, we can not change a perticular value in the set.
+Dictionary: {k, v}, Ordered, key cann'tduplicate, values can be duplicate
+
